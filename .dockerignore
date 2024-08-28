@@ -1,0 +1,32 @@
+# Node modules
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Build output
+dist
+build
+tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+
+# Git files
+.git
+.gitignore
+
+# Logs
+*.log
+
+# IDE/Editor specific files
+.vscode
+.idea
+*.swp
+*.swo
+
+# Other files
+*.md
+*.gitkeep
